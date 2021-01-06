@@ -13,7 +13,7 @@
     "build:test": "cross-env NODE_ENV=production env_config=test node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "codemirror": "^5.49.2",
     "element-ui": "^2.1.0",
     "js-base64": "^2.5.1",
